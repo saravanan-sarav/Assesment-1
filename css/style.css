@@ -85,17 +85,17 @@ input[type="text"]::placeholder {
 }
 
 .websites:nth-child(1) {
-  background-image: url("/images/shopping.png");
+  background-image: url("../images/shopping.png");
   background-repeat: no-repeat;
   background-size: 300px 260px;
 }
 .websites:nth-child(2) {
-  background-image: url("/images/hamleys-hero-img.png");
+  background-image: url("../images/hamleys-hero-img.png");
   background-repeat: no-repeat;
   background-size: 350px 260px;
 }
 .websites:nth-child(3) {
-  background-image: url("/images/medical.png");
+  background-image: url("../images/medical.png");
   background-repeat: no-repeat;
   background-size: 350px 26a0px;
 }
